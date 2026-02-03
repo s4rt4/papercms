@@ -108,7 +108,11 @@ paper-cms/
 
 ## 📸 Screenshots
 
-*Coming soon*
+### Light Mode
+![Light Mode](screenshoot/screencapture-light.png)
+
+### Dark Mode
+![Dark Mode](screenshoot/screencapture-dark.png)
 
 ---
 
