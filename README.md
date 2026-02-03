@@ -2,7 +2,7 @@
 
 A lightweight, personal blogging CMS with a beautiful hand-drawn aesthetic powered by Paper CSS.
 
-> ⚠️ **Personal Project** — This is a personal project built for learning and experimentation. Feel free to use it as a reference or fork it for your own use!
+> ⚠️ **Personal Project** - This is a personal project built for learning and experimentation. Feel free to use it as a reference or fork it for your own use!
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![PHP](https://img.shields.io/badge/php-%3E%3D7.4-777BB4.svg)
@@ -13,33 +13,33 @@ A lightweight, personal blogging CMS with a beautiful hand-drawn aesthetic power
 ## ✨ Features
 
 ### 📰 Post Management
-- **Rich Text Editor** — WYSIWYG editor with formatting toolbar
-- **Syntax Highlighting** — Code blocks with Prism.js support
-- **Draft & Publish** — Save drafts or publish instantly
-- **Featured Images** — Set featured images for posts
-- **Categories & Tags** — Organize posts with categories and tags
-- **Visibility Options** — Public, private, or password-protected posts
+- **Rich Text Editor** - WYSIWYG editor with formatting toolbar
+- **Syntax Highlighting** - Code blocks with Prism.js support
+- **Draft & Publish** - Save drafts or publish instantly
+- **Featured Images** - Set featured images for posts
+- **Categories & Tags** - Organize posts with categories and tags
+- **Visibility Options** - Public, private, or password-protected posts
 
 ### 🎨 Editor Features
-- **Text Formatting** — Bold, italic, underline, strikethrough
-- **Headings** — H1-H6 heading levels
-- **Lists** — Ordered and unordered lists
-- **Text & Background Colors** — Custom color picker
-- **Font Selection** — Multiple font options
-- **Code Blocks** — Syntax highlighted code with language selection
-- **Media Manager** — Upload and insert images/videos
-- **Link Insertion** — Easy hyperlink management
-- **Block Quotes** — Styled quote blocks
+- **Text Formatting** - Bold, italic, underline, strikethrough
+- **Headings** - H1-H6 heading levels
+- **Lists** - Ordered and unordered lists
+- **Text & Background Colors** - Custom color picker
+- **Font Selection** - Multiple font options
+- **Code Blocks** - Syntax highlighted code with language selection
+- **Media Manager** - Upload and insert images/videos
+- **Link Insertion** - Easy hyperlink management
+- **Block Quotes** - Styled quote blocks
 
 ### 🌓 User Experience
-- **Dark Mode** — Toggle between light and dark themes
-- **Responsive Design** — Works on desktop and mobile
-- **Clean UI** — Hand-drawn aesthetic with Paper CSS
+- **Dark Mode** - Toggle between light and dark themes
+- **Responsive Design** - Works on desktop and mobile
+- **Clean UI** - Hand-drawn aesthetic with Paper CSS
 
 ### 📁 Media Management
-- **File Upload** — Drag & drop or click to upload
-- **Media Library** — Browse and manage uploaded files
-- **Image/Video Support** — Support for various media formats
+- **File Upload** - Drag & drop or click to upload
+- **Media Library** - Browse and manage uploaded files
+- **Image/Video Support** - Support for various media formats
 
 ---
 
@@ -118,15 +118,15 @@ paper-cms/
 
 ## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## 🙏 Credits
 
-- **[Paper CSS](https://www.getpapercss.com/)** — The beautiful hand-drawn CSS framework that powers the UI
-- **[Prism.js](https://prismjs.com/)** — Syntax highlighting for code blocks
-- **[UI Icons (Doodle Icons)](https://khushmeen.gumroad.com/l/doodleicons)** — Beautiful hand-drawn icon set used throughout the project (some icons modified)
+- **[Paper CSS](https://www.getpapercss.com/)** - The beautiful hand-drawn CSS framework that powers the UI
+- **[Prism.js](https://prismjs.com/)** - Syntax highlighting for code blocks
+- **[UI Icons (Doodle Icons)](https://khushmeen.gumroad.com/l/doodleicons)** - Beautiful hand-drawn icon set used throughout the project (some icons modified)
 
 ---
 
