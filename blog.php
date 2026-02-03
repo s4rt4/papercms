@@ -285,7 +285,7 @@ $siteDesc = getSetting('site_description', '');
     <nav class="navbar border fixed">
         <div class="container">
             <div style="display:flex;align-items:center;">
-                <a href="blog.php" class="navbar-brand"><?= e($siteTitle) ?></a>
+                <a href="index.php" class="navbar-brand"><?= e($siteTitle) ?></a>
                 <span class="navbar-title">
                     <?php if ($categorySlug): ?>
                         Category: <?= e($categorySlug) ?>
@@ -297,8 +297,10 @@ $siteDesc = getSetting('site_description', '');
                 </span>
             </div>
             <div class="navbar-menu">
-                <a href="blog.php">Blog</a>
-                <a href="tambah-post.php">+ New Post</a>
+                <a href="index.php">Home</a>
+                <a href="about.php">About</a>
+                <a href="blog.php" style="font-weight:bold;">Blog</a>
+                <a href="contact.php">Contact</a>
             </div>
         </div>
     </nav>

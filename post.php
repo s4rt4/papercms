@@ -240,10 +240,12 @@ $siteTitle = getSetting('site_title', 'Paper CMS');
 <body>
     <nav class="navbar border fixed">
         <div class="container">
-            <a href="blog.php" class="navbar-brand"><?= e($siteTitle) ?></a>
+            <a href="index.php" class="navbar-brand"><?= e($siteTitle) ?></a>
             <div class="navbar-menu">
+                <a href="index.php">Home</a>
+                <a href="about.php">About</a>
                 <a href="blog.php">Blog</a>
-                <a href="tambah-post.php?edit=<?= $post['id'] ?>">Edit Post</a>
+                <a href="contact.php">Contact</a>
             </div>
         </div>
     </nav>
