@@ -126,7 +126,7 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 - **[Paper CSS](https://www.getpapercss.com/)** — The beautiful hand-drawn CSS framework that powers the UI
 - **[Prism.js](https://prismjs.com/)** — Syntax highlighting for code blocks
-- **[Solar Icons](https://www.figma.com/community/file/1019353050314527791)** — Beautiful icon set used throughout the project (some icons modified)
+- **[UI Icons (Doodle Icons)](https://khushmeen.gumroad.com/l/doodleicons)** — Beautiful hand-drawn icon set used throughout the project (some icons modified)
 
 ---
 
