@@ -1,0 +1,42 @@
+# IDE & Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup files
+*.backup
+*.bak
+*.tmp
+*~
+
+# Logs
+*.log
+
+# Uploaded files (optional - uncomment if you don't want to track uploads)
+# upload/
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Vendor/Dependencies (if using composer)
+vendor/
+
+# Node modules (if using npm)
+node_modules/
+
+# Cache
+*.cache
+
+# Gemini/AI files
+.gemini/
+
+# Misc
+all-files.txt
